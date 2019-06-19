@@ -1,0 +1,63 @@
+.js-slider{
+
+    position:relative;
+
+    width:255px;
+
+    height:20px;
+
+}
+
+.js-slider div{
+
+    background:#ddd;
+
+    height:3px;
+
+    border:1px inset #aaa;
+
+    position:relative;
+
+    top:12px;
+
+    font-size:0px;
+
+}
+
+.js-slider input{
+
+    position:absolute;
+
+    width:15px;
+
+    height:20px;
+
+    display:block;
+
+}
+
+.canvas{
+
+    width: 500px;
+
+    height: 500px;
+
+    margin: 10px;
+
+    float:left;
+
+}
+
+.after{
+
+    clear:both;
+
+}
+
+.form{
+
+    margin:10px;
+
+    float:left;
+
+}
